@@ -1,5 +1,5 @@
 "
-I am a integer that can count up and down.
+I am a integer counter that can count up and down.
 My API is
 - decrement, increment
 My creation API is message startingAt: 
